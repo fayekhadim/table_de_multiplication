@@ -11,7 +11,7 @@
 			<form method="post" action="">
 			<tr>
 				<td><label for="prenom">Prénom à voire</label> :</td>
-				<td><input type="text" name="prenom" id="prenom"></td>
+				<td><input type="text" name="prenom" id="prenom" placeholder="Exemple : Eric"></td>
 			</tr>
 						<tr>
 				<td><input type="submit" name="soumis_pre" value="envoyer"></td>
@@ -68,8 +68,8 @@
 			</tr></form>
 			<form method="post" action="">
 			<tr>
-				<td><label for="phon">Un email qui contient Gm</label> :</td>
-				<td><input type="text" name="email" id="phon"></td>
+				<td><label for="phon">Un email qui contient</label> :</td>
+				<td><input type="text" name="email" id="phon" placeholder="Exemple : google"></td>
 			</tr>
 						<tr>
 				<td><input type="submit" name="soumis_ml" value="envoyer"></td>
@@ -77,8 +77,8 @@
 			</form>
 			<form method="post" action="">
 			<tr>
-				<td><label for="pass">Repartition par Etat SN</label> :</td>
-				<td><input type="text" name="etatb" id="pass"></td>
+				<td><label for="pass">Repartition par Etat</label> :</td>
+				<td><input type="text" name="etatb" id="pass" placeholder="Exemple : CN"></td>
 			</tr>
 						<tr>
 				<td><input type="submit" name="soumis_et" value="envoyer"></td>
