@@ -123,7 +123,7 @@
             <div class="btns">
          <ul>
              <li><button>annuler</button> </li>
-             <li><input type="submit" name="soumet" class="in"></li>
+             <li><input type="submit" name="soumet" class="in" value="Question ?"></li>
          </ul>
      </div>
     </form>

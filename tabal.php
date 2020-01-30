@@ -95,7 +95,7 @@
      <div class="btns">
          <ul>
              <li><button>annuler</button> </li>
-             <li><input type="submit" name="soumet" class="in"></li>
+             <li><input type="submit" name="soumet" class="in" value="Afficher la table"></li>
          </ul>
      </div>
      <div class="resultat"></div>
